@@ -1,3 +1,5 @@
+### mdadm library manual
+
 Introducing our library: it's a powerful tool that can help you perform a wide range of tasks quickly and efficiently. Whether you're working with data processing, machine learning, or other computationally intensive tasks, our library is designed to simplify your workflow and help you get the results you need.
 
 One of the key features of our library is caching, which helps to improve performance by storing frequently used data in memory for fast access. This can be particularly useful when working with large datasets or when running complex algorithms that require a lot of computation. With our caching system, you can speed up your workflow and get your results faster than ever before.
