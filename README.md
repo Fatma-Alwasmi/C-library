@@ -1,4 +1,4 @@
-### mdadm library manual
+# mdadm library manual
 
 Introducing our library: it's a powerful tool that can help you perform a wide range of tasks quickly and efficiently. Whether you're working with data processing, machine learning, or other computationally intensive tasks, our library is designed to simplify your workflow and help you get the results you need.
 
